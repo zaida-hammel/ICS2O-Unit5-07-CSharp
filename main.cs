@@ -20,5 +20,6 @@ class Program
             sum += counter;
 
         Console.WriteLine("The answer is: " + sum);
+        Console.Write("Done.");
     }
 }
